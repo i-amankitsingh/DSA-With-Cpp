@@ -1,0 +1,9 @@
+# Ignore compiled binaries
+output
+output.exe
+*.out
+*.o
+*.a
+
+# macOS specific
+.DS_Store
